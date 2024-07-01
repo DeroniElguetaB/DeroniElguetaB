@@ -1,4 +1,5 @@
-<h1 align="center">Hola! Soy Deroni Elgueta, Desarrollador software y web 👋🏽</h1>
+<h1 align="center">Hola! Soy Deroni Elgueta 👋🏽</h1>
+<h3 align="center">Desarrollador software y web </h3>
 <img class="center" src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg" alt="programmer" width="800" height="300"/>
 
 <hr></hr>
