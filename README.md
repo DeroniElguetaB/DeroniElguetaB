@@ -1,11 +1,12 @@
 <h1 align="center">Hola! Soy Deroni Elgueta, Desarrollador software y web 👋🏽</h1>
 <img class="center" src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg" alt="programmer" width="800" height="300"/>
-<h3 align="center">⚡Mi Portfolio</h3>
+<h2 align="center">⚡Mi Portfolio</h2>
 <h3 align="center">https://portfolio-deroni-elgueta.vercel.app/</h3>
 
-<h3 align="center">👨‍💻 Soy un profesional con experiencia en diseño, desarrollo y mantenimiento de software web, con conocimiento y experiencia en varias plataformas y lenguajes de programación. Buenas habilidades de colaboración dentro de un equipo productivo y adaptación a los cambios, siempre con predisposición total al aprendizaje de nuevas tecnologías. Mi predisposición al crecimiento constante es total!</h3>
+<h2 align="center">👨🏽‍💻</h2>
+<h3 align="center">Soy un profesional con experiencia en diseño, desarrollo y mantenimiento de software web, con conocimiento y experiencia en varias plataformas y lenguajes de programación. Buenas habilidades de colaboración dentro de un equipo productivo y adaptación a los cambios, siempre con predisposición total al aprendizaje de nuevas tecnologías. Mi predisposición al crecimiento constante es total!</h3>
 
-<h3 align="center">🔨Mis Habilidades Tecnicas:</h3>
+<h2 align="center">🔨 Mis Habilidades Tecnicas:</h2>
 <h3 align="center"> 
   <a href="https://getbootstrap.com" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> 
@@ -27,7 +28,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
 </h3>
 
-<h3 align="center">🌱 Mis Aptitudes:</h3>
+<h2 align="center">🌱 Mis Aptitudes:</h3>
 <h3 align="center">
 1. Trabajo en equipo </br>
 2. Responsabilidad </br>
@@ -40,7 +41,7 @@
 </h3>
 
 
-<h3 align="center">📱 Mis redes:</h3>
+<h2 align="center">📱 Mis redes:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deroni-elgueta-buzeta-898511243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deroni-elgueta-buzeta-898511243/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/dero_buzeta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dero_buzeta/" height="30" width="40" /></a>
