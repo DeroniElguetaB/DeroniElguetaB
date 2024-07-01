@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hola soy Deroni Elgueta, desarrollador software y web👋
 
-<!--
-**DeroniElguetaB/DeroniElguetaB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi repositorio personal 
+https://portfolio-deroni-elgueta.vercel.app/
 
-Here are some ideas to get you started:
+👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un profesional con experiencia en diseño, desarrollo y mantenimiento de software web, con conocimiento y experiencia en varias plataformas y lenguajes de programación. Buenas habilidades de colaboración dentro de un equipo productivo y adaptación a los cambios, siempre con predisposición total al aprendizaje de nuevas tecnologías. Mi predisposición al crecimiento constante es total!
+
+🔨 Habilidades Tecnicas:
+ HTML  CSS  JavaScript  selenium  React  vite  mysql  Node  Mongo MERN postman Bootstrap  Sass  Figma  tw  taildw  selenium  vite 
+
+🌱 Aptitudes 
+1. Trabajo en equipo
+2. Responsabilidad
+3. Gestión del tiempo
+4. Aprendizaje rápido
+5. Buena comunicación
+6. Adaptabilidad al cambio
+7. Buena predisposición
+8. Dinámico
