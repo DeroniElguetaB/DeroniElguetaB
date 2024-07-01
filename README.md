@@ -3,7 +3,7 @@
 <h2 align="center">⚡Mi Portfolio</h2>
 <h3 align="center">https://portfolio-deroni-elgueta.vercel.app/</h3>
 
-<h2 align="center">👨🏽‍💻</h2>
+<h3 align="center">👨🏽‍💻</h3>
 <h3 align="center">Soy un profesional con experiencia en diseño, desarrollo y mantenimiento de software web, con conocimiento y experiencia en varias plataformas y lenguajes de programación. Buenas habilidades de colaboración dentro de un equipo productivo y adaptación a los cambios, siempre con predisposición total al aprendizaje de nuevas tecnologías. Mi predisposición al crecimiento constante es total!</h3>
 
 <h2 align="center">🔨 Mis Habilidades Tecnicas:</h2>
