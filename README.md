@@ -1,4 +1,6 @@
-## Hola soy Deroni Elgueta, desarrollador software y web👋
+## Hola a todos! soy Deroni Elgueta, desarrollador software y web 👋
+
+https://pixabay.com/es/photos/desarrollador-de-software-6521720/
 
 Mi repositorio personal 
 
