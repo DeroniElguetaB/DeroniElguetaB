@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Deroni Elgueta, desarrollador software y web 👋</h1>
-<img src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg" alt="programmer" width="5000" height="250"/>
+<img src="https://e0.pxfuel.com/wallpapers/149/259/desktop-wallpaper-web-design-web-developer.jpg" alt="programmer" width="500" height="250"/>
 <h3 align="center">👨‍💻 Soy un profesional con experiencia en diseño, desarrollo y mantenimiento de software web, con conocimiento y experiencia en varias plataformas y lenguajes de programación. Buenas habilidades de colaboración dentro de un equipo productivo y adaptación a los cambios, siempre con predisposición total al aprendizaje de nuevas tecnologías. Mi predisposición al crecimiento constante es total!</h3>
 
 <h3 align="center">🔨Mis Habilidades Tecnicas:</h3>
