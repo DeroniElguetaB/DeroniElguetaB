@@ -1,5 +1,5 @@
 <h1 align="center">Hola! Soy Deroni Elgueta 👋🏽 </br> Desarrollador software y web</h1>
-<img class="center" src="https://i.imgur.com/BZFQtVm.jpeg" alt="programmer" width="1000" height="500"/> 
+<img class="center" src="https://i.imgur.com/BZFQtVm.jpeg" alt="programmer" width="1000" height="600"/> 
 
 <hr></hr>
 <h3 align="center">⚡Mi Portfolio</h3>
